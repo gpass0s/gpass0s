@@ -1,23 +1,16 @@
-### Hi there 👋
+### Hi there! 👋
 
 Welcome to my GitHub profile! 🎉
-========================================
 
-My name is Guilherme, but I can go by Passos which is easier to pronounce!
+I’m Guilherme, but feel free to call me Passos—it’s easier to pronounce!
 
-* 🌍 I'm based in Belo Horizonte, Brazil. 
-* 👀 I usually describe myself as a Data Engineer, Python developer, AWS Certified Data Analytics Specialist and Solution Architect 
-with over 5 years of experience in the tech industry. 
-* 🎓 I hold a BSc in Electrical and Computer Engineering from UFMG in Brazil. 
-* 🧐 I'm interested in cloud computing, big data technologies, and helping companies extract 
-business value from data.
+* 🌍 Based in Belo Horizonte, Brazil, I'm a Data Engineer and Python developer with over five years of experience in the tech industry.
+* 💼 I’m an AWS Certified Data Analytics Specialist and Solutions Architect, driven by a passion for cloud computing and big data technologies.
+* 🎓 I hold a BSc in Electrical and Computer Engineering from UFMG, Brazil.
+* 🧐 I love helping companies turn data into actionable insights that drive real business value.
 
 ### Skills
-* Python
-* SQL
-* AWS services (EMR, Glue, Athena, S3, Kinesis, SQS, SNS, MSK)
-* Terraform
-* Snowflake
-* dbt
-* GCP services (BigQuery, CloudFunction, CloudStorage)
-* Apache Spark (PySpark)
+* **Programming:** Python, PySpark, SQL
+* **Cloud & Big Data:** AWS (EMR, Lambdas, Glue, Athena, S3, Kinesis, SQS, SNS, MSK), GCP (BigQuery, Cloud Functions, Cloud Storage)
+* **Infrastructure:** Terraform, Snowflake, dbt, Airflow
+* **Data Processing:** Apache Spark (PySpark)
