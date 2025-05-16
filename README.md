@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🎉
 
-I’m Guilherme, but feel free to call me Passos—it’s easier to pronounce!
+Feel free to call me Passos!
 
 * 🌍 Based in Belo Horizonte, Brazil, I'm a Data Engineer and Python developer with over five years of experience in the tech industry.
 * 💼 I’m an AWS Certified Data Analytics Specialist and Solutions Architect, driven by a passion for cloud computing and big data technologies.
