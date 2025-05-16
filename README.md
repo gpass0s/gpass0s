@@ -6,7 +6,7 @@ Feel free to call me Passos!
 
 * 🌍 Based in Brazil, I'm a Data Engineer and Python developer with over five years of experience in the tech industry.
 * 💼 I’m an AWS Certified Data Analytics Specialist and Solutions Architect, driven by a passion for cloud computing and big data technologies.
-* 🎓 I hold a BSc in Electrical and Computer Engineering.
+* 🎓 I hold a BSc in Electrical and Computer Engineering from UFMG.
 * 🧐 I love helping companies turn data into actionable insights that drive real business value.
 
 ### Skills
